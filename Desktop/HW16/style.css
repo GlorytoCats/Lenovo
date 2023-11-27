@@ -1,0 +1,9 @@
+.box{
+    width: 600px;
+  height: 500px;
+  background-color: green;
+  background-image: url(./ponchik.png),url(./ez.webp), url(./dom.jpg) url(./travka.png) url(./lampa.png);
+  background-size: 50px 50px, 100% 200px, 50px 50px, 50px 50px, 300px 200px;
+  background-repeat: repeat-x, no-repeat, repeat-y, repeat-y, no-repeat;
+  background-position: top, bottom, right, left, center;
+}
